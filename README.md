@@ -7,6 +7,8 @@ An automated **Resume Screening System** built using **n8n**, Telegram, Google S
 <img width="1470" height="956" alt="Resume ATS checker Snapshot" src="https://github.com/user-attachments/assets/5606418f-e885-4a0e-ba10-9f98fab114ce" />
 
 
+## demo video :
+[demo](https://youtu.be/a8wwLBGe3RU)
 ---
 
 ## 🔥 Key Features
