@@ -8,7 +8,7 @@ An automated **Resume Screening System** built using **n8n**, Telegram, Google S
 
 
 ## demo video :
-[demo](https://youtu.be/a8wwLBGe3RU)
+[Youtube](https://youtu.be/a8wwLBGe3RU)
 ---
 
 ## 🔥 Key Features
