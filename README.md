@@ -15,7 +15,7 @@ An automated **Resume Screening System** built using **n8n**, Telegram, Google S
 
 * Upload resumes via **Telegram** (PDF or ZIP).
 * **AI-powered ATS scoring**.
-* Auto-classifies: **Accepted (≥70)** / **Rejected (<70)**.
+* Auto-classifies: **Accepted (>70)** / **Rejected (<=70)**.
 * Append results to **Google Sheets**.
 * Auto-send **Accepted/Rejected** messages.
 * Supports **multiple resumes inside ZIP**.
